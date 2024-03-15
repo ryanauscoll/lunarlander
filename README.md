@@ -13,7 +13,7 @@ Or if you are scared of running python but not scared of random .EXEs on the int
 
 ## What & Why?
 
-Inspired by recent, rather tippy lunar landers, you can play around with diferent lander geometry, gravity, mass, inertia, etc. in this simplified simulaton. Initial conditions for the sim can be set with sliders, and the lander can be steered either by a simple joystick, or individual sliders to directly control thrust and thrust vector direction.
+Inspired by recent, rather tippy lunar landers, you can play around with different lander geometry, gravity, mass, inertia, etc. in this simplified simulation. Initial conditions for the sim can be set with sliders, and the lander can be steered either by a simple joystick, or individual sliders to directly control thrust and thrust vector direction.
 
 <div style="text-align:center">
     <img src="images/preview.PNG" alt="Alt text" title="LanderSim">
